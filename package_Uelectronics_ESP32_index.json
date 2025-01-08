@@ -12,10 +12,10 @@
           {
             "category": "Unit Electronics",
             "name": "UNIT Electronics ESP32",
-            "url": "https://github.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package/releases/download/v1.0.0/Uelectronics-esp32-1.0.0.zip",
+            "url": "https://github.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package/releases/download/v2.0.0/Uelectronics-esp32-2.0.0.zip",
             "version": "2.0.0",
             "architecture": "esp32",
-            "archiveFileName": "Uelectronics-esp32-1.0.0.zip",
+            "archiveFileName": "Uelectronics-esp32-2.0.0.zip",
             "boards": [
               {
                 "name": "DualMCU ESP32"
@@ -81,8 +81,8 @@
             "help": {
               "online": ""
             },
-            "size": "769499137",
-            "checksum": "SHA-256:bb97ec8d78c1e50190f04df72d8a07b0b70f6bf7dae00b82e6ec09681952e990"
+            "size": "746282477",
+            "checksum": "SHA-256:69BC9FB9FCA8E1D24C0B611A9F9712B6606C70752A98BED9927732F9329F10D7"
           },
           {
             "category": "Unit Electronics",
