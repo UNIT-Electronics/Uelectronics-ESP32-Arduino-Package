@@ -5,6 +5,7 @@ The package includes a range of sample code and examples to help users get start
 
 # Supported Boards
 * UNIT DualMCU ESP32
+* UNIT DualMCU-ONE ESP32
 * ESP32 Dev Module
 * ESP32S3 Dev Module
 * ESP32C3 Dev Module
@@ -13,7 +14,7 @@ The package includes a range of sample code and examples to help users get start
 ## Installation instructions using Arduino IDE Boards Manager
 ### ==========================================================
 
-- Stable release link: `https://github.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package/releases/download/v1.0.0/package_Uelectronics_ESP32_index.json`
+- Stable release link: `https://raw.githubusercontent.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package/main/package_Uelectronics_esp32_index.json`
 
 Arduino allows installation of third-party platform packages using Boards Manager. 
 
