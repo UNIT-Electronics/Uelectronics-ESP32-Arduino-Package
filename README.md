@@ -40,7 +40,7 @@ Follow these steps to seamlessly integrate the package into your development env
 4. **Install the ESP32 Platform**  
    - Go to **Tools > Board > Boards Manager**.  
    - Search for **UNIT Electronics ESP32** and install the platform package.  
-   - After installation, select your desired ESP32 board under **Tools > Board**.  
+   - After installation, select your desired DualMCU-ESP32 board under **Tools > Board**.  
 
 ---
 
