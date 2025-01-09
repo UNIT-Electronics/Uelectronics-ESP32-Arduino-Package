@@ -31,7 +31,7 @@ Follow these steps to seamlessly integrate the package into your development env
    ```  
 
 2. **Prepare Your Environment**  
-   - Download and install the latest version of the Arduino IDE (v1.8 or later) from the [official Arduino website](http://www.arduino.cc/en/main/software).  
+   - Download and install the latest version of the Arduino IDE (we recommend using version 2.0 or later) from the [official Arduino website](http://www.arduino.cc/en/main/software).  
 
 3. **Configure Preferences**  
    - Open the Arduino IDE and navigate to the **Preferences** window.  
@@ -39,7 +39,7 @@ Follow these steps to seamlessly integrate the package into your development env
 
 4. **Install the ESP32 Platform**  
    - Go to **Tools > Board > Boards Manager**.  
-   - Search for **ESP32** and install the platform package.  
+   - Search for **UNIT Electronics ESP32** and install the platform package.  
    - After installation, select your desired ESP32 board under **Tools > Board**.  
 
 ---
@@ -54,4 +54,4 @@ The included examples provide practical insights and real-world applications to 
 
 ---
 
-Elevate your projects with the **Uelectronics-ESP32 Arduino Package**, and experience the power of innovation in the palm of your hands.
+Elevate your projects with the DualMCU line of boards and the Uelectronics-ESP32 Arduino Package, experiencing the power of innovation right at your fingertips.
