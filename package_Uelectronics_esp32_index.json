@@ -86,7 +86,7 @@
                 "version": "3.0.0-gnu12-dc7f933"
               },
               {
-                "packager": "Uelectronics",
+                "packager": "arduino",
                 "name": "dfu-util",
                 "version": "0.11.0-arduino5"
               }
