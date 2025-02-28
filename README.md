@@ -1,8 +1,7 @@
-
 ---
 
 # **Uelectronics-ESP32 Arduino Package**  
-The **Uelectronics-ESP32 Arduino Package** is a comprehensive suite of tools and libraries designed to empower developers to harness the full potential of the ESP32 microcontroller. This package enables seamless programming and control of ESP32-based devices on **DualMCU boards** using the widely popular **Arduino platform**.
+The **Uelectronics-ESP32 Arduino Package** is a comprehensive suite of tools and libraries designed to empower developers to harness the full potential of the ESP32 microcontroller. This package enables seamless programming and control of ESP32-based devices on **DualMCU boards** and **UNIT NANO ESP32 boards** using the widely popular **Arduino platform**.
 
 With this package, developers can unlock a world of possibilities for building cutting-edge IoT solutions, prototyping innovative applications, and exploring the capabilities of connected devices. It includes an extensive collection of examples and sample code to help users quickly get started.
 
@@ -12,11 +11,13 @@ With this package, developers can unlock a world of possibilities for building c
 This package supports a wide array of ESP32-based development boards, ensuring flexibility and adaptability for diverse projects:
 
 - **UNIT DualMCU ESP32**  
-- **UNIT DualMCU-ONE ESP32**  
+- **UNIT DualMCU-ONE ESP32**
+- **NANO ESP32-C6**    
 - **ESP32 Dev Module**  
 - **ESP32S3 Dev Module**  
 - **ESP32C3 Dev Module**  
 - **ESP32S2 Dev Module**  
+
 
 ---
 
@@ -40,7 +41,7 @@ Follow these steps to seamlessly integrate the package into your development env
 4. **Install the ESP32 Platform**  
    - Go to **Tools > Board > Boards Manager**.  
    - Search for **UNIT Electronics ESP32** and install the platform package.  
-   - After installation, select your desired DualMCU-ESP32 board under **Tools > Board**.  
+   - After installation, select your preferred DualMCU-ESP32 or NANO ESP32-C6 board under **Tools > Board**.
 
 ---
 
@@ -48,10 +49,18 @@ Follow these steps to seamlessly integrate the package into your development env
 For detailed usage information, examples, and further resources, explore the following repositories:  
 
 - [UNIT DualMCU GitHub Repository](https://github.com/UNIT-Electronics/DualMCU)  
-- [UNIT DualMCU-ONE GitHub Repository](https://github.com/UNIT-Electronics/DualMCU-ONE/tree/main?tab=readme-ov-file)  
+- [UNIT DualMCU-ONE GitHub Repository](https://github.com/UNIT-Electronics/DualMCU-ONE/tree/main?tab=readme-ov-file) 
+- [UNIT NANO ESP32-C6 GitHub Repository](https://github.com/UNIT-Electronics-MX/UNIT_NANO_ESP32_C6)  
 
 The included examples provide practical insights and real-world applications to kickstart your development journey.
 
 ---
 
+## **Updated JSON Package Version**  
+The JSON package used in this release has been updated to **version 3.0.0**, based on **Espressif's 3.1.3** version. This ensures improved stability and compatibility with the latest ESP32 development tools. For more details, check the official **[Arduino Release v3.1.3 based on ESP-IDF v5.3](https://github.com/espressif/arduino-esp32/releases/tag/3.1.3)**.
+
+
+---
+
 Elevate your projects with the DualMCU line of boards and the Uelectronics-ESP32 Arduino Package, experiencing the power of innovation right at your fingertips.
+
