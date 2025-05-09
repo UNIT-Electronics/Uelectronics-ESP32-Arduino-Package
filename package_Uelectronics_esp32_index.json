@@ -12,6 +12,97 @@
           {
             "category": "Unit Electronics",
             "name": "UNIT Electronics ESP32",
+            "url": "https://github.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package/releases/download/v3.0.1/Uelectronics-esp32-3.0.1.zip",
+            "version": "3.0.1",
+            "architecture": "esp32",
+            "archiveFileName": "Uelectronics-esp32-3.0.1.zip",
+            "boards": [
+              {
+                "name": "PULSAR ESP32-H2"
+              },              
+              {
+                "name": "PULSAR ESP32-C6"
+              },
+              {
+                "name": "DualMCU ESP32"
+              },
+              {
+                "name": "DualMCU ONE ESP32"
+              },
+              {
+                "name": "ESP32 Dev Board"
+              },
+              {
+                "name": "ESP32-S2 Dev Board"
+              },
+              {
+                "name": "ESP32-S3 Dev Board"
+              },
+              {
+                "name": "ESP32-C3 Dev Board"
+              }
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "Uelectronics",
+                "name": "esp32-arduino-libs",
+                "version": "idf-release_v5.3-489d7a2b-v1"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "esp-x32",
+                "version": "2405"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "xtensa-esp-elf-gdb",
+                "version": "14.2_20240403"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "esp-rv32",
+                "version": "2405"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "riscv32-esp-elf-gdb",
+                "version": "14.2_20240403"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "openocd-esp32",
+                "version": "v0.12.0-esp32-20241016"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "esptool_py",
+                "version": "4.9.dev3"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "mkspiffs",
+                "version": "0.2.3"
+              },
+              {
+                "packager": "Uelectronics",
+                "name": "mklittlefs",
+                "version": "3.0.0-gnu12-dc7f933"
+              },
+              {
+                "packager": "arduino",
+                "name": "dfu-util",
+                "version": "0.11.0-arduino5"
+              }
+            ],
+            "help": {
+              "online": ""
+            },
+            "size": "20520206",
+            "checksum": "SHA-256:c5bd36ef92101b041d35a4f6d4fba10b92cda7c591542bc8ec7ce390039bcc67"
+          },          
+          {
+            "category": "Unit Electronics",
+            "name": "UNIT Electronics ESP32",
             "url": "https://github.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package/releases/download/v3.0.0/Uelectronics-esp32-3.0.0.zip",
             "version": "3.0.0",
             "architecture": "esp32",
