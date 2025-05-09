@@ -1,7 +1,7 @@
 ---
 
 # **Uelectronics-ESP32 Arduino Package**  
-The **Uelectronics-ESP32 Arduino Package** is a comprehensive suite of tools and libraries designed to empower developers to harness the full potential of the ESP32 microcontroller. This package enables seamless programming and control of ESP32-based devices on **DualMCU boards** and **UNIT NANO ESP32 boards** using the widely popular **Arduino platform**.
+The **Uelectronics-ESP32 Arduino Package** is a comprehensive suite of tools and libraries designed to empower developers to harness the full potential of the ESP32 microcontroller. This package enables seamless programming and control of ESP32-based devices on **DualMCU boards** and **UNIT PULSAR ESP32 boards** using the widely popular **Arduino platform**.
 
 With this package, developers can unlock a world of possibilities for building cutting-edge IoT solutions, prototyping innovative applications, and exploring the capabilities of connected devices. It includes an extensive collection of examples and sample code to help users quickly get started.
 
@@ -10,9 +10,10 @@ With this package, developers can unlock a world of possibilities for building c
 ## **Supported Boards**  
 This package supports a wide array of ESP32-based development boards, ensuring flexibility and adaptability for diverse projects:
 
+- **PULSAR ESP32-C6** 
+- **PULSAR ESP32-H2** 
 - **UNIT DualMCU ESP32**  
-- **UNIT DualMCU-ONE ESP32**
-- **NANO ESP32-C6**    
+- **UNIT DualMCU-ONE ESP32**   
 - **ESP32 Dev Module**  
 - **ESP32S3 Dev Module**  
 - **ESP32C3 Dev Module**  
@@ -41,7 +42,7 @@ Follow these steps to seamlessly integrate the package into your development env
 4. **Install the ESP32 Platform**  
    - Go to **Tools > Board > Boards Manager**.  
    - Search for **UNIT Electronics ESP32** and install the platform package.  
-   - After installation, select your preferred DualMCU-ESP32 or NANO ESP32-C6 board under **Tools > Board**.
+   - After installation, select your preferred DualMCU-ESP32 or PULSAR ESP32 board under **Tools > Board**.
 
 ---
 
@@ -50,7 +51,8 @@ For detailed usage information, examples, and further resources, explore the fol
 
 - [UNIT DualMCU GitHub Repository](https://github.com/UNIT-Electronics/DualMCU)  
 - [UNIT DualMCU-ONE GitHub Repository](https://github.com/UNIT-Electronics/DualMCU-ONE/tree/main?tab=readme-ov-file) 
-- [UNIT NANO ESP32-C6 GitHub Repository](https://github.com/UNIT-Electronics-MX/UNIT_NANO_ESP32_C6)  
+- [UNIT PULSAR ESP32-C6 GitHub Repository](https://github.com/UNIT-Electronics-MX/unit_pulsar_esp32_c6)  
+- [UNIT PULSAR ESP32-H2 GitHub Repository](https://github.com/UNIT-Electronics-MX/unit_pulsar_esp32_h2) 
 
 The included examples provide practical insights and real-world applications to kickstart your development journey.
 
