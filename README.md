@@ -10,6 +10,7 @@ With this package, developers can unlock a world of possibilities for building c
 ## **Supported Boards**  
 This package supports a wide array of ESP32-based development boards, ensuring flexibility and adaptability for diverse projects:
 
+- **Touch Dot ESP32-S3**
 - **PULSAR ESP32-C6** 
 - **PULSAR ESP32-H2** 
 - **UNIT DualMCU ESP32**  
